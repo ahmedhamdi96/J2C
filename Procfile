@@ -1,0 +1,1 @@
+web: gunicorn j2c.wsgi
